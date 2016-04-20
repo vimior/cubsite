@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+__author__ = 'vinman'
+
 """
 WSGI config for cubsite project.
 

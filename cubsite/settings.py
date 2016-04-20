@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+__author__ = 'vinman'
+
 """
 Django settings for cubsite project.
 
@@ -37,6 +41,8 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'cubsite',
+    'blog',
 )
 
 MIDDLEWARE_CLASSES = (

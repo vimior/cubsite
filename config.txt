@@ -1,0 +1,21 @@
+
+cubsite: 工程
+    cubsite: 网站主app
+    blog: 博客app
+
+
+cubsite:
+    models:
+
+
+
+blog:
+    models:
+        分类 Category
+            类名 name
+            数量 amount
+            创建时间 create_time
+        文章 Article：
+            标题 title
+            内容
+            创建时间
